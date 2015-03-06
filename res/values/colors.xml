@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="second_grey" type="color">#dddddd</item>
+    <item name="card_white" type="color">#f6f6f6</item>
+    <item name="card_shadow" type="color">#8c666666</item>
+    <item name="light_blue" type="color">#33B5E5</item>
+    <item name="light_green" type="color">#99CC00</item>
+    <item name="light_yellow" type="color">#FFBB33</item>
+    <item name="light_red" type="color">#FF4444</item>
+    <item name="light_grey" type="color" >#a8a8a8</item>
+</resources> 
